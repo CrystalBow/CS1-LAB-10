@@ -1,0 +1,3 @@
+C:/Users/Yimer/Software Dev/CS1-LAB-10/cmake-build-debug/CMakeFiles/CS1_LAB_10.dir
+C:/Users/Yimer/Software Dev/CS1-LAB-10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yimer/Software Dev/CS1-LAB-10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
